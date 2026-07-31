@@ -1,17 +1,19 @@
 ----
 
-###  🌐 Web dev
+### 🛠️ Tooling
+- [claude-config](https://github.com/cheubes/claude-config): Personal Claude Code configuration, versioned and syncable (hooks, slash commands, settings).
+- [claude-code-artifacts](https://github.com/cheubes/claude-code-artifacts): A collection of custom skills for Claude Code.
+
+----
+
+### 🌐 Web dev
 - [Professional page](https://christophe.heubes.com/) *([source code](https://github.com/cheubes/christophe.heubes.com))*
 - [Personal page](https://christophe.heubes.org/) *([source code](https://github.com/cheubes/christophe.heubes.org))*
 - [Scuba diving and traveling](https://www.samettof.org/) *([source code](https://github.com/skherra/samettof.org))*
 
-
-
 ----
 ### 👨‍💻 Misc
 - 📷 [InstaGH](https://github.com/cheubes/instaGH): A simple [InstaPy](https://github.com/timgrossmann/InstaPy) template that implements a unfollow / follow likers pattern. This template provide a rich console interface thanks to the [Rich API](https://github.com/willmcgugan/rich).
-
-
 
 ----
 ### 🌱 Learning at [freeCodeCamp](https://www.freecodecamp.org/cheubes) (🔥)
