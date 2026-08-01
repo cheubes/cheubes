@@ -1,3 +1,9 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-heubes-2C374C?logo=linkedin&logoColor=white)](https://linkedin.com/in/heubes/)
+[![Pro](https://img.shields.io/badge/Pro-christophe.heubes.com-2C374C)](https://christophe.heubes.com/)
+
+[![Perso](https://img.shields.io/badge/Perso-christophe.heubes.org-C7B299)](https://christophe.heubes.org/)
+[![Scuba_diving](https://img.shields.io/badge/Diving-samettof.org-C7B299)](https://www.samettof.org/)
+
 ----
 
 ### 🛠️ Tooling
@@ -7,9 +13,9 @@
 ----
 
 ### 🌐 Web dev
-- [Professional page](https://christophe.heubes.com/) *([source code](https://github.com/cheubes/christophe.heubes.com))*
-- [Personal page](https://christophe.heubes.org/) *([source code](https://github.com/cheubes/christophe.heubes.org))*
-- [Scuba diving and traveling](https://www.samettof.org/) *([source code](https://github.com/skherra/samettof.org))*
+- [Professional page](https://github.com/cheubes/christophe.heubes.com)
+- [Personal page](https://github.com/cheubes/christophe.heubes.org)
+- [Scuba diving and traveling](https://github.com/skherra/samettof.org)
 
 ----
 ### 👨‍💻 Misc
