@@ -1,3 +1,13 @@
+### Hey, I'm Christophe 👋
+
+🚀 With a background in engineering and technical architecture, coupled with extensive experience as a COO, I structure technology organizations to drive sustainable and ambitious growth.
+
+🔭 Currently deep into AI, agentic & prompting.
+
+🌊 Off the keyboard: scuba diving & street photography.
+
+----
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-heubes-2C374C?logo=linkedin&logoColor=white)](https://linkedin.com/in/heubes/)
 [![Pro](https://img.shields.io/badge/Pro-christophe.heubes.com-2C374C)](https://christophe.heubes.com/)
 
