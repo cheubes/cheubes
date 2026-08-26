@@ -27,6 +27,7 @@
 - [Professional page](https://github.com/cheubes/christophe.heubes.com)
 - [Personal page](https://github.com/cheubes/christophe.heubes.org)
 - [Scuba diving and traveling](https://github.com/skherra/samettof.org)
+- [Social graphs](https://github.com/cheubes/social-graphs.heubes.io)
 
 ----
 ### 👨‍💻 Misc
