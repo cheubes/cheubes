@@ -24,10 +24,11 @@
 ----
 
 ### 🌐 Web dev
+- [Dataviz](https://github.com/cheubes/dataviz.heubes.io)
+- [Social graphs](https://github.com/cheubes/social-graphs.heubes.io)
+- [Scuba diving and traveling](https://github.com/skherra/samettof.org)
 - [Professional page](https://github.com/cheubes/christophe.heubes.com)
 - [Personal page](https://github.com/cheubes/christophe.heubes.org)
-- [Scuba diving and traveling](https://github.com/skherra/samettof.org)
-- [Social graphs](https://github.com/cheubes/social-graphs.heubes.io)
 
 ----
 ### 👨‍💻 Misc
