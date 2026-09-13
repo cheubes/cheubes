@@ -15,7 +15,7 @@
 [![Perso](https://img.shields.io/badge/Perso-christophe.heubes.org-C7B299)](https://christophe.heubes.org/)
 
 [![Dataviz](https://img.shields.io/badge/Dataviz-dataviz.heubes.io-ACB2B8)](https://dataviz.heubes.io/)
-[![Social_graphs](https://img.shields.io/badge/Social_graphs-social-graphs.heubes.io-ACB2B8)](https://social-graphs.heubes.io/)
+[![Social_graphs](https://img.shields.io/badge/Social_graphs-social--graphs.heubes.io-ACB2B8)](https://social-graphs.heubes.io/)
 
 [![Scuba_diving](https://img.shields.io/badge/Scuba_diving-samettof.org-ACB2B8)](https://www.samettof.org/)
 
